@@ -7,6 +7,9 @@ A lot of leactures are already submitted.
 ## GIT & GITHUB Training
 This is the famous and one of the Bext Training Course of DevOPS
 
+$$ Contribution
+Fork the Repo and raise pull request for review
+
 ## GIT Comparisions
 Adding GIT Comparisions in Lecture
 

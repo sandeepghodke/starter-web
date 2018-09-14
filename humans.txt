@@ -15,3 +15,4 @@
 
     HTML5, CSS3, Angular, AJAX
     jQuery, Modernizr
+	Machine Learning, AWS, Google Cloud

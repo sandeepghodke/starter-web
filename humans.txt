@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> -- Sandeep Ghodke -- <twitter>
+    Sandeep Ghodke
+	sandeep.ghodke@test.com
+	Oracle DBA
 
 # THANKS
 

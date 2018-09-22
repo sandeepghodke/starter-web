@@ -24,3 +24,4 @@ This is test change
     HTML5, CSS3, Angular, AJAX
     jQuery, Modernizr
 	Machine Learning, AWS, Google Cloud
+	AWS Professional

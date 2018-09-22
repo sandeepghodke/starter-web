@@ -3,6 +3,7 @@
 Hi! Going to insert conflicts in my feature branch.
 
 Hi, I am modifying the file before rebase.
+Adding important Notes on GIT Stash.
 
 This is test change
 
